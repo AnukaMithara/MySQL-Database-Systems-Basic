@@ -2,7 +2,7 @@
 University of Jaffna: Faculty of Engineering: EC5070: Database Systems: Lab 1
 
 Exercises
-  1. Create the below tables with constraints:
+1. Create the below tables with constraints:
   i. Employee ( Fname ,Minit, Lname, Bdate, Address , Sex ,Salary,Super_ssn ,Dno, Ssn)
   ii. DEPARTMENT(Dname, Dnumber, Mgr_ssn, Mgr_start_date )
   iii. DEPT_LOCATIONS (Dnumber, Dlocation)
